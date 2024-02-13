@@ -37,7 +37,7 @@
 #### Contact
 
 - 📫 Gmail: anadumitriu68@gmail.com 📫
-- 💬 LinkedIn: linkedin.com/in/dumitriu-ana-maria/
+- 💬 LinkedIn: [linkedin.com/in/dumitriu-ana-maria/](https://www.linkedin.com/in/dumitriu-ana-maria/)
 <!--
 **dumitriu-ana/dumitriu-ana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
